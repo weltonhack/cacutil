@@ -1,5 +1,5 @@
 # Utilidades para CACs
-O objetivo deste repositório é disponbilizar modelos de documentos que sejam úteis para os CACs (Colecionadores, Atiradores e Caçadores) montarem seus processos a serem protocolados no exército. Os modelos disponibilizados aqui foram utilizados por mim nos processos que protocolei no 38 BI de Vila Velha/ES. A idéia é facilitar a vida dos colegas CACs, principalmente os novatos, que normalmente têm grande dificuldade em reunir as informações necessárias para protocolar seus próprios processos no SFPC.  
+O objetivo deste repositório é disponibilizar modelos de documentos que sejam úteis para os CACs (Colecionadores, Atiradores e Caçadores) montarem seus processos a serem protocolados no exército. Os modelos disponibilizados aqui foram utilizados por mim nos processos que protocolei no 38 BI de Vila Velha/ES. A idéia é facilitar a vida dos colegas CACs, principalmente os novatos, que normalmente têm grande dificuldade em reunir as informações necessárias para protocolar seus próprios processos no SFPC.  
 
 Inicialmente estou disponibilizando formulários automatizados para os seguintes processos, referentes ao acervo de tiro esportivo:
 * Autorização para compra de arma na indústria;
