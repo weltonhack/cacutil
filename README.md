@@ -12,7 +12,7 @@ Todos os documentos estão protegidos, mas sem senha ou criptografia. Dessa form
 
 Se quiserem contribuir, podem enviar para este repositório novos modelos (ajustados para outras Organizações ou Regiões Militares, por exemplo, ou até para outros tipos de processo). Apenas solicito que mantenham o padrão de pastas: região militar -> organização militar onde o processo pode ser usado.  
 
-**OBS: LEMBRE-SE DE CLICAR NO BOTÃO "Habilitar Edição" e em seguida em "Habilitar Conteúdo" QUANDO ABRIR O DOCUMENTO PELA PRIMEIRA VEZ, DE FORMA QUE OS SCRIPTS FUNCIONEM.**
+**OBS: LEMBRE-SE DE CLICAR NO BOTÃO "Habilitar Edição" e em seguida em "Habilitar Conteúdo" QUANDO ABRIR O DOCUMENTO PELA PRIMEIRA VEZ, DE FORMA QUE OS SCRIPTS FUNCIONEM. ALÉM DISSO, SE O SEU WORD ABRIR O DOCUMENTO EM MODO DE EXIBIÇÃO, CLIQUE NO MENU "Modo de Exibição" NA PARTE SUPERIOR ESQUERDA DA TELA DO WORD E NO MENU QUE SE ABRE SELECIONE "Editar Documento"**
 
 **ATENÇÃO: NÃO DOU GARANTIA NENHUMA QUANTO AO CORRETO FUNCIONAMENTO DOS MODELOS OU AO DEFERIMENTO DOS PROCESSOS. APENAS UTILIZEI OS MODELOS AQUI FORNECIDOS EM MEUS PROCESSOS E TODOS FORAM DEFERIDOS. CONTUDO, NÃO GARANTO QUE OS MODELOS ESTEJAM ATUALIZADOS NO MOMENTO EM QUE VOCÊ FOR UTILIZÁ-LOS OU QUE FUNCIONARÃO CORRETAMENTE NA SUA VERSÃO DO MICROSOFT WORD*.**
 
